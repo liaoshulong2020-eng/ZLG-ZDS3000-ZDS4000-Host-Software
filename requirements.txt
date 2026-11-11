@@ -1,0 +1,8 @@
+numpy
+PySide6
+pyqtgraph
+matplotlib
+fastapi
+pydantic
+uvicorn
+httpx

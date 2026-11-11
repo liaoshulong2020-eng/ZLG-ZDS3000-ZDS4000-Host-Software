@@ -1,0 +1,102 @@
+{
+  "EDGE": [
+    ":TRIGger:EDGE:SOURce",
+    ":TRIGger:EDGE:SLOPe",
+    ":TRIGger:EDGE:LEVel"
+  ],
+  "PULSE": [
+    ":TRIGger:PULSe:SOURce",
+    ":TRIGger:PULSe:WHEN",
+    ":TRIGger:PULSe:UWIDth",
+    ":TRIGger:PULSe:LWIDth",
+    ":TRIGger:PULSe:LEVel"
+  ],
+  "SLOPE": [
+    ":TRIGger:SLOPe:SOURce",
+    ":TRIGger:SLOPe:WHEN",
+    ":TRIGger:SLOPe:TUPPer",
+    ":TRIGger:SLOPe:TLOWer",
+    ":TRIGger:SLOPe:WINDow",
+    ":TRIGger:SLOPe:HLEVel",
+    ":TRIGger:SLOPe:LLEVel"
+  ],
+  "VIDEO": [
+    ":TRIGger:VIDEo:SOURce",
+    ":TRIGger:VIDEo:POLArity",
+    ":TRIGger:VIDEo:STANdard",
+    ":TRIGger:VIDEo:SLOPe",
+    ":TRIGger:VIDEo:LINE",
+    ":TRIGger:VIDEo:LEVel"
+  ],
+  "RUNT": [
+    ":TRIGger:RUNT:SOURce",
+    ":TRIGger:RUNT:SLOPe",
+    ":TRIGger:RUNT:WHEN",
+    ":TRIGger:RUNT:TUPPer",
+    ":TRIGger:RUNT:TLOWer",
+    ":TRIGger:RUNT:WINDow",
+    ":TRIGger:RUNT:HLEVel",
+    ":TRIGger:RUNT:LLEVel"
+  ],
+  "PRUNT": [
+    ":TRIGger:PRUNt:SOURce",
+    ":TRIGger:PRUNt:SLOPe",
+    ":TRIGger:PRUNt:WHEN",
+    ":TRIGger:PRUNt:TUPPer",
+    ":TRIGger:PRUNt:TLOWer",
+    ":TRIGger:PRUNt:WINDow",
+    ":TRIGger:PRUNt:HLEVel",
+    ":TRIGger:PRUNt:LLEVel"
+  ],
+  "PATTERN": [
+    ":TRIGger:PATTern:ASRc",
+    ":TRIGger:PATTern:BSRc",
+    ":TRIGger:PATTern:APat",
+    ":TRIGger:PATTern:BPat",
+    ":TRIGger:PATTern:WHEN",
+    ":TRIGger:PATTern:TUPPer",
+    ":TRIGger:PATTern:TLOWer"
+  ],
+  "NEDGE": [
+    ":TRIGger:NEDGe:SOURce",
+    ":TRIGger:NEDGe:SLOPe",
+    ":TRIGger:NEDGe:EDGEnum",
+    ":TRIGger:NEDGe:IDLE",
+    ":TRIGger:NEDGe:LEVel"
+  ],
+  "DELAY": [
+    ":TRIGger:DELay:ASRc",
+    ":TRIGger:DELay:BSRc",
+    ":TRIGger:DELay:SLOPe",
+    ":TRIGger:DELay:WHEN",
+    ":TRIGger:DELay:TUPPer",
+    ":TRIGger:DELay:TLOWer"
+  ],
+  "TIMEOUT": [
+    ":TRIGger:TIMeout:SOURce",
+    ":TRIGger:TIMeout:SLOPe",
+    ":TRIGger:TIMeout:TIMe",
+    ":TRIGger:TIMeout:LEVel"
+  ],
+  "SHOLD": [
+    ":TRIGger:SHOLd:DSrc",
+    ":TRIGger:SHOLd:CSrc",
+    ":TRIGger:SHOLd:SLOPe",
+    ":TRIGger:SHOLd:PATTern",
+    ":TRIGger:SHOLd:TYPE",
+    ":TRIGger:SHOLd:STIMe",
+    ":TRIGger:SHOLd:HTIMe"
+  ],
+  "ATOBN": [
+    ":TRIGger:ATOBn:ASrc",
+    ":TRIGger:ATOBn:BSrc",
+    ":TRIGger:ATOBn:ASLOPe",
+    ":TRIGger:ATOBn:BSLOPe",
+    ":TRIGger:ATOBn:EDGEnum",
+    ":TRIGger:ATOBn:ATHRes",
+    ":TRIGger:ATOBn:BTHRes"
+  ],
+  "ALTER": [
+    ":TRIGger:ALTEr:SOURce"
+  ]
+}

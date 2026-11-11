@@ -1,0 +1,25 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Generated builds, runtime records and local verification
+/build/
+/dist/
+/tmp/
+/data/
+*.log
+*.partial
+*.wfm
+# Local machine configuration and secrets
+.env
+.env.*
+!.env.example
+scope_network_before_*.json
+.vscode/
+.idea/
+# Vendor reference materials are kept locally, not part of source delivery
+/ZDS_USB_DRV/
+/ZDS3000_4000Plus_pm(1).pdf
+/manual_settings_reference.txt
